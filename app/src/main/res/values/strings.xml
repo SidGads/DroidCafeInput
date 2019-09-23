@@ -15,4 +15,10 @@
     <string name="enter_phone_hint">enter phone number</string>
     <string name="note_label_text">Note</string>
     <string name="enter_note_hint">Enter Notes here</string>
+    <string name="same_day">Same day messenger service</string>
+    <string name="next_day">Next day ground delivery</string>
+    <string name="pick_up">Pick up</string>
+    <string-array name="labels_array">
+        <item>Home</item><item>Work</item><item>Mobile</item><item>Other</item>
+    </string-array>
 </resources>
